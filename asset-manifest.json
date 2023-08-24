@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/madadi71/contact-manager-app/static/css/main.2611678a.css",
-    "main.js": "/madadi71/contact-manager-app/static/js/main.10d8333b.js",
-    "static/media/Spinner.gif": "/madadi71/contact-manager-app/static/media/Spinner.5b35cef0ce49e2af8525.gif",
-    "static/media/no-found.gif": "/madadi71/contact-manager-app/static/media/no-found.8a3fe9fd54d21c85d260.gif",
-    "static/media/man-taking-note.png": "/madadi71/contact-manager-app/static/media/man-taking-note.578e1679689f39584d15.png",
-    "index.html": "/madadi71/contact-manager-app/index.html",
-    "main.2611678a.css.map": "/madadi71/contact-manager-app/static/css/main.2611678a.css.map",
-    "main.10d8333b.js.map": "/madadi71/contact-manager-app/static/js/main.10d8333b.js.map"
+    "main.css": "/contact-manager-app/static/css/main.2611678a.css",
+    "main.js": "/contact-manager-app/static/js/main.de4ad297.js",
+    "static/media/Spinner.gif": "/contact-manager-app/static/media/Spinner.5b35cef0ce49e2af8525.gif",
+    "static/media/no-found.gif": "/contact-manager-app/static/media/no-found.8a3fe9fd54d21c85d260.gif",
+    "static/media/man-taking-note.png": "/contact-manager-app/static/media/man-taking-note.578e1679689f39584d15.png",
+    "index.html": "/contact-manager-app/index.html",
+    "main.2611678a.css.map": "/contact-manager-app/static/css/main.2611678a.css.map",
+    "main.de4ad297.js.map": "/contact-manager-app/static/js/main.de4ad297.js.map"
   },
   "entrypoints": [
     "static/css/main.2611678a.css",
-    "static/js/main.10d8333b.js"
+    "static/js/main.de4ad297.js"
   ]
 }
